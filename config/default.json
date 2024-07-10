@@ -1,0 +1,5 @@
+{
+    "serverPort": "${SERVER_PORT}",
+    "bdUrl": "${BD_URL}",
+    "jwtSecret": "${JWT_SECRET}"
+  }
